@@ -1,5 +1,6 @@
 # Global-SuperStore-Analysis-PowerBI
 Analysis of the Global Superstore till 2016
+Top 10 Products by profit, Bottom 10 Products by profit, Total Sales , Sales by segment 
 
 Main Dashboard:
 
